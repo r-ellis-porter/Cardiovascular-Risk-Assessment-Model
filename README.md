@@ -15,3 +15,5 @@ The primary purpose of our analysis is twofold: firstly, to identify and underst
 
 References for the data source(s)
 - https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?resource=download
+
+![image](https://github.com/r-ellis-porter/Cardiovascular-Risk-Assessment-Model/assets/141861525/29a89b87-90f6-4641-a21d-0e3fde3723ba)
