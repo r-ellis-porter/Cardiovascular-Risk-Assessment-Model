@@ -8,3 +8,10 @@ This project revolves around the in-depth analysis of the "cardio_train.csv" dat
 
 Purpose:
 The primary purpose of our analysis is twofold: firstly, to identify and understand the key determinants that contribute to cardiovascular diseases. This involves exploring relationships between various health metrics and lifestyle choices, and how these factors synergize to influence heart health. Secondly, we aim to leverage this data to develop predictive models that can effectively forecast an individual's risk of developing cardiovascular diseases. Through this endeavor, we aspire to contribute to the broader field of preventive healthcare, aiding in the early detection and management of cardiovascular risks. Our goal is to generate insights that could inform both individuals and healthcare professionals, ultimately leading to more informed decisions, better health outcomes, and a reduction in the incidence of cardiovascular diseases.
+
+
+
+
+
+References for the data source(s)
+- https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?resource=download
