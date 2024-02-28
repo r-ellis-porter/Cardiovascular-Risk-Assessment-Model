@@ -2,6 +2,9 @@
 
 Team: Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, Xiang Li, and Reetu Jakhar.
 
+[
+](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fpublic.tableau.com%2Fstatic%2Fimages%2Fpr%2Fproject-4final-1%2Ffinal-1%2F4_3_hd.png)
+
 Project Overview and Purpose
 Overview:
 This project revolves around the in-depth analysis of the "cardio_train.csv" dataset, a comprehensive collection of health data from individuals, meticulously gathered to explore factors influencing cardiovascular health. The dataset encompasses a wide range of variables, including age, gender, body measurements, blood pressure levels, cholesterol and glucose levels, along with lifestyle factors like smoking habits, alcohol consumption, and physical activity levels. Each entry also indicates the presence or absence of cardiovascular disease, providing a unique lens to examine the risk factors associated with this prevalent health concern.
