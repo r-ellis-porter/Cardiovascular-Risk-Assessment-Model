@@ -2,8 +2,8 @@
 
 Team: Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, Xiang Li, and Reetu Jakhar.
 
-[
-](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fpublic.tableau.com%2Fstatic%2Fimages%2Fpr%2Fproject-4final-1%2Ffinal-1%2F4_3_hd.png)
+<img width="1385" alt="Screenshot 2024-02-27 at 8 45 43 PM" src="https://github.com/r-ellis-porter/Cardiovascular-Risk-Assessment-Model/assets/141861525/3f8baca4-ca70-4366-9b59-9065f5e8b676">
+
 
 Project Overview and Purpose
 Overview:
