@@ -13,6 +13,7 @@ Purpose:
 The primary purpose of our analysis is twofold: firstly, to identify and understand the key determinants that contribute to cardiovascular diseases. This involves exploring relationships between various health metrics and lifestyle choices, and how these factors synergize to influence heart health. Secondly, we aim to leverage this data to develop predictive models that can effectively forecast an individual's risk of developing cardiovascular diseases. Through this endeavor, we aspire to contribute to the broader field of preventive healthcare, aiding in the early detection and management of cardiovascular risks. Our goal is to generate insights that could inform both individuals and healthcare professionals, ultimately leading to more informed decisions, better health outcomes, and a reduction in the incidence of cardiovascular diseases.
 
 
+![optuna_720](https://github.com/r-ellis-porter/Cardiovascular-Risk-Assessment-Model/assets/141861525/5149f0e7-90ef-49f3-8b89-7e5e70c8fc96)
 
 
 
