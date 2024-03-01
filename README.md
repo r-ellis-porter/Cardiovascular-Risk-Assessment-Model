@@ -3,13 +3,13 @@
 ![image](https://github.com/r-ellis-porter/Cardiovascular-Risk-Assessment-Model/assets/143370584/53a5fbdd-9c25-4939-af7f-ed6aed9aea56)
 
 
-                                                Project Overview and Purpose
+## Project Overview and Purpose
 
 
-Overview:
+## Overview:
 Our analysis revolves around data points like age, gender, physical measurements (height and weight), blood pressure readings (systolic and diastolic), cholesterol levels, glucose levels, and lifestyle factors such as smoking, alcohol consumption, and physical activity. Most significantly, it includes a critical indicator of the presence or absence of cardiovascular disease, offering a valuable opportunity to explore correlations and patterns that may assist in predicting cardiovascular health risks.
 
-Purpose:
+## Purpose:
 Identify key factors contributing to cardiovascular diseases.
 Understand the interplay between lifestyle choices and cardiovascular health.
 Develop predictive models to assess the risk of cardiovascular diseases.
@@ -23,6 +23,11 @@ Subjective: information given by the patient.
 
 
 ## Visualizations
+
+## Tableau storyboards:-
+https://public.tableau.com/app/profile/reetu.jakhar/viz/project-4final-3/Story1#1
+https://public.tableau.com/app/profile/reetu.jakhar/viz/Project-4-final-4/Story1#2
+
 
 ![image](https://github.com/r-ellis-porter/Cardiovascular-Risk-Assessment-Model/assets/143370584/0983ff7f-4e59-42ef-a09f-0fdbe9039c9f)
 
