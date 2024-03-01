@@ -1,4 +1,4 @@
-# heart-failure-prediction-ml-project
+Cardiovascular Risk Assessment Model 
 
 Team: Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, Xiang Li, and Reetu Jakhar.
 
